@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'falcon';
+    src: url('falconpunch.ttf') format('truetype');
+}
+
+h1 {
+    font-family: 'falcon', sans-serif;
+}
